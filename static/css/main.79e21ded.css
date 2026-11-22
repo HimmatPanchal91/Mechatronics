@@ -1,0 +1,2 @@
+body{margin:0}*{cursor:none}.nav-links{display:flex;gap:1.8rem;list-style:none;margin:0;padding:0}.menu-button{background:none;border:none;color:#333;cursor:pointer;display:none;font-size:1.8rem}@media (max-width:1199px){.nav-links{background-color:#f0f0f0fa;box-shadow:0 10px 15px #0000001a;display:none;flex-direction:column;left:0;padding:1rem;position:absolute;top:100%;width:100%}.nav-links.open{display:flex}.menu-button{display:block}}
+/*# sourceMappingURL=main.79e21ded.css.map*/
